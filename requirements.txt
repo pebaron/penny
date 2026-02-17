@@ -1,0 +1,8 @@
+cat <<EOL > requirements.txt
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+EOL
